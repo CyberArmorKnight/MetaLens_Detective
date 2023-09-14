@@ -3,6 +3,7 @@
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
 **Author**: Tushar Santosh Patil
+
 **Email**: tushar.patil.5202@gmail.com
 
 &ensp;&ensp;&ensp;&ensp;The Image Metadata Extraction Tool is a user-friendly Python script designed to extract metadata from various image formats, including .jpg, .jpeg, .png, .gif, .bmp, and more. This tool automates the extraction of Exif data, GPS coordinates, and generates an HTML report, making it useful for analyzing image properties.
