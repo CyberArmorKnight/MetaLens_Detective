@@ -66,11 +66,11 @@ Follow these steps to install and use the Image Metadata Extraction Tool:
 
 ## License
 
-SystemGuardian is licensed under the [MIT License](LICENSE). You are free to use, modify, and distribute the script in accordance with the terms of this license.
+MetaLens Detective is licensed under the [MIT License](LICENSE). You are free to use, modify, and distribute the script in accordance with the terms of this license.
 
 ## Disclaimer
 
-Please note that the SystemGuardian script is provided as-is, without any warranty or guarantee. Use it at your own risk. Always review the code and understand the actions it performs before running it on your system.
+Please note that the MetaLens Detective script is provided as-is, without any warranty or guarantee. Use it at your own risk. Always review the code and understand the actions it performs before running it on your system.
 
 ## Documentation
 
