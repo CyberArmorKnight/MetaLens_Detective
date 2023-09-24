@@ -1,4 +1,4 @@
-# Image Metadata Extraction Tool
+# MetaLens Detective (Image Metadata Extraction Tool)
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
@@ -6,7 +6,7 @@
 
 **Email**: tushar.patil.5202@gmail.com
 
-&ensp;&ensp;&ensp;&ensp;The Image Metadata Extraction Tool is a user-friendly Python script designed to extract metadata from various image formats, including .jpg, .jpeg, .png, .gif, .bmp, and more. This tool automates the extraction of Exif data, GPS coordinates, and generates an HTML report, making it useful for analyzing image properties.
+&ensp;&ensp;&ensp;&ensp;The MetaLens Detective (Image Metadata Extraction Tool) is a user-friendly Python script designed to extract metadata from various image formats, including .jpg, .jpeg, .png, .gif, .bmp, and more. This tool automates the extraction of Exif data, GPS coordinates, and generates an HTML report, making it useful for analyzing image properties.
 
 ## Features
 
